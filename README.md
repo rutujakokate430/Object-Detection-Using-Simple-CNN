@@ -80,6 +80,9 @@ Several data augmentation techniques were applied to improve model generalizatio
 - **IoU**: Improved from 0.0651 to 0.1996 over 40 epochs.
 - **mAP**: Increased from 0.0451 to 0.2520.
 - **Accuracy**: Reached ~80% within the first 10 epochs.
+  
+<img width="356" alt="image" src="https://github.com/user-attachments/assets/eefad893-5890-429d-97eb-6cd4d6f16c9b" />
+
 
 ### YOLOv8 Performance
 - **IoU**: Achieved a mean IoU of 0.802.
