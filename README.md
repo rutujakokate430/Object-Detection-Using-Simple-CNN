@@ -73,6 +73,8 @@ Several data augmentation techniques were applied to improve model generalizatio
 2. **Mean Average Precision (mAP)**: Combines precision and recall to evaluate detection performance.
 3. **Accuracy**: Tracks model performance in predicting the correct class.
 
+<img width="680" alt="image" src="https://github.com/user-attachments/assets/f124ee5c-ec2f-444c-81be-24e9fac34c56" />
+
 ---
 
 ## Results
